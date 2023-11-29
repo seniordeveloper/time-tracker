@@ -1,0 +1,27 @@
+{
+  "name": "time-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "time-tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seniordeveloper/time-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seniordeveloper/time-tracker/issues"
+  },
+  "homepage": "https://github.com/seniordeveloper/time-tracker#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tslib": "^2.6.2"
+  }
+}
